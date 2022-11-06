@@ -1,3 +1,4 @@
+- Amstirdam (Malang) <https://www.tokopedia.com/amstirdamcoffee>
 - Darat Coffee (Jogja) <https://www.tokopedia.com/daratcoffee/>
 - Drama Coffee Roastery (Surabaya) <https://dramaroastery.com/>
 - Expat Coffee Roastery (Bali) <https://expatroasters.com/>
