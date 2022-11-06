@@ -9,6 +9,7 @@
 - KopiApi Roastery (Makassar) <https://www.tokopedia.com/kopiapicoffeeroaste>
 - KlinikKopi (Jogja) <https://www.tokopedia.com/klinikkopiyk>
 - Onward Coffee (Jakarta) <https://www.tokopedia.com/onwardjkt/>
+- Saysomething Coffee (Jakarta) <https://www.tokopedia.com/saysomecoffee>
 - Smoking Barrels (Jakarta) <https://www.smokingbarrels.coffee/>
 - Twohandsfull (Bandung) <https://thfcoffee.com/>
 - Wheels Coffee Roaster (Bandung) <https://www.tokopedia.com/wheelscoffeeroas>
