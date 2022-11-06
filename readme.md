@@ -5,6 +5,7 @@
 - Harapan Djaya CR (Jakarta) <https://www.tokopedia.com/harapandjayaco>
 - Hungry Bird (Bali) <https://hungrybird.coffee/>
 - Jack Runner (Bandung) <https://jackrunner.coffee/>
+- KlinikKopi (Jogja) <https://www.tokopedia.com/klinikkopiyk>
 - Onward Coffee (Jakarta) <https://www.tokopedia.com/onwardjkt/>
 - Smoking Barrels (Jakarta) <https://www.smokingbarrels.coffee/>
 - Twohandsfull (Bandung) <https://thfcoffee.com/>
