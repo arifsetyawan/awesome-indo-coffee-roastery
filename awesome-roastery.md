@@ -1,0 +1,10 @@
+- Darat Coffee (Jogja) <https://www.tokopedia.com/daratcoffee/>
+- Drama Coffee Roastery (Surabaya) <https://dramaroastery.com/>
+- Expat Coffee Roastery (Bali) <https://expatroasters.com/>
+- Giyanti Coffee Roastery (Jakarta) <https://www.tokopedia.com/giyanticoffee/>
+- Hungry Bird (Bali) <https://hungrybird.coffee/>
+- Jack Runner (Bandung) <https://jackrunner.coffee/>
+- Onward Coffee (Jakarta) <https://www.tokopedia.com/onwardjkt/>
+- Smoking Barrels (Jakarta) <https://www.smokingbarrels.coffee/>
+- Twohandsfull (Bandung) <https://thfcoffee.com/>
+- Wheels Coffee Roaster (Bandung) <https://www.tokopedia.com/wheelscoffeeroas>
