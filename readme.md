@@ -2,6 +2,7 @@
 - Drama Coffee Roastery (Surabaya) <https://dramaroastery.com/>
 - Expat Coffee Roastery (Bali) <https://expatroasters.com/>
 - Giyanti Coffee Roastery (Jakarta) <https://www.tokopedia.com/giyanticoffee/>
+- Harapan Djaya CR (Jakarta) <https://www.tokopedia.com/harapandjayaco>
 - Hungry Bird (Bali) <https://hungrybird.coffee/>
 - Jack Runner (Bandung) <https://jackrunner.coffee/>
 - Onward Coffee (Jakarta) <https://www.tokopedia.com/onwardjkt/>
