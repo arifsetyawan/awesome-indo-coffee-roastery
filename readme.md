@@ -4,6 +4,7 @@
 - Expat Coffee Roastery (Bali) <https://expatroasters.com/>
 - Giyanti Coffee Roastery (Jakarta) <https://www.tokopedia.com/giyanticoffee/>
 - Harapan Djaya CR (Jakarta) <https://www.tokopedia.com/harapandjayaco>
+- Houdvan Coffee Co (Malang) <https://www.tokopedia.com/houdvancoffeeco>
 - Hungry Bird (Bali) <https://hungrybird.coffee/>
 - Jack Runner (Bandung) <https://jackrunner.coffee/>
 - KopiApi Roastery (Makassar) <https://www.tokopedia.com/kopiapicoffeeroaste>
